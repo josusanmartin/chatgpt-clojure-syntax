@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "ChatGPT Clojure Syntax Highlighter",
+    "version": "1.0",
+    "description": "Highlights Clojure code in ChatGPT output.",
+    "permissions": [
+        "activeTab"
+    ],
+    "content_scripts": [
+        {
+            "matches": ["*://chatgpt.com/c/*"],
+            "js": ["prism/prism.js", "content.js"],
+            "css": ["prism/prism.css", "styles.css"]
+        }
+    ],
+    "icons": {
+        "16": "icons/icon_16.png",
+        "48": "icons/icon_48.png",
+        "128": "icons/icon_128.png"
+    }
+}
