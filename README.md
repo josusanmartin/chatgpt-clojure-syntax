@@ -2,6 +2,10 @@
 
 ChatGPT currently doesn't highlight Clojure Syntax so I created this Chrome extension that does that. This extension automatically applies syntax highlighting to Clojure code blocks, making it easier to read and understand code snippets.
 
+## Disclaimer
+
+This extension is not affiliated with, endorsed by, or associated with ChatGPT, OpenAI, or any of their products or services.
+
 ## Features
 
 - Automatically highlights Clojure code blocks in ChatGPT outputs.
