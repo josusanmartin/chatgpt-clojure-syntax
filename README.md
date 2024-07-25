@@ -12,6 +12,17 @@ This extension is not affiliated with, endorsed by, or associated with ChatGPT, 
 - Utilizes Prism.js for syntax highlighting.
 - Clean and modern design with a dark theme for better readability.
 
+## Screenshots
+
+Here are some screenshots of the extension in action:
+
+### ChatGPT without the extension
+![ChatGPT without the extension](screenshots/without.png)
+
+### ChatGPT with Clojure Syntax Highlighting
+![ChatGPT with Clojure Syntax Highlighting](screenshots/with.png)
+
+
 ## Installation
 
 1. **Clone the Repository**
